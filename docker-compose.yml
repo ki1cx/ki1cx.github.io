@@ -1,0 +1,17 @@
+version: '3'
+services:
+  site:
+    image: jekyll/jekyll:latest
+    container_name: blog
+    hostname: blog
+    volumes:
+      - $PWD/docs:/srv/jekyll/site
+      - $PWD/bundle:/usr/local/bundle:rw
+    working_dir: /srv/jekyll/site
+    command: sh -c "/usr/jekyll/bin/jekyll s --livereload"
+    ports:
+      - 4000:4000
+      - 35729:35729
+      - 3030:3000
+      -   80:4000
+
