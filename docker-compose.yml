@@ -5,7 +5,7 @@ services:
     container_name: blog
     hostname: blog
     volumes:
-      - $PWD/docs:/srv/jekyll/site
+      - $PWD:/srv/jekyll/site
       - $PWD/bundle:/usr/local/bundle:rw
     working_dir: /srv/jekyll/site
     command: sh -c "/usr/jekyll/bin/jekyll s --livereload"
