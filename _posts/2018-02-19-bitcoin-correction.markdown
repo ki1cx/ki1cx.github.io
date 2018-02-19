@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Bitcoin - correction"
+title: Bitcoin - correction
+description: What must go up must come down. Bitcoin is no different. But bitcoin isn't dead. It is gearing up for another stage of adoption.
 date:   2018-02-19 10:28:56 -0000
 categories: bitcoin
 ---
