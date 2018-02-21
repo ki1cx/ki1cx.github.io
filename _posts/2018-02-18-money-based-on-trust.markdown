@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Money - based on trust
+layout: single
+title: "Money - based on trust"
 description: Our current world monetary system is keeping us from economic evolution. We are currently in a struggle with the old system and the people that want to hold on to their power. Centralized authority no longer works in an information age. The system we have become accustomed to must be shed to make room for better things. Bitcoin and other cryptocurrencies will allow us to move forward and evolve.
 date:   2018-02-18 08:22:36 -0000
 categories: money

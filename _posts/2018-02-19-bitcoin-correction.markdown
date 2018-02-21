@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Bitcoin - correction
+layout: single
+title: "Bitcoin - correction"
 description: What must go up must come down. Bitcoin is no different. But bitcoin isn't dead. It is gearing up for another stage of adoption.
 date:   2018-02-19 10:28:56 -0000
 categories: bitcoin
@@ -8,7 +8,7 @@ categories: bitcoin
 
 Is Bitcoin done with it's correction? No one really knows, but we can use [Elliot Wave Principle][2] to make some predictions. With strong correlation to corrective waves past observed, we can make some conjectures. The BTC/Dollar chart below shows strikingly similar resemblence to the Triple Three correction.
 
-![b](/assets/bitcoin-correction-micro-2018-02-19.png)
+![b](/assets/images/bitcoin-correction-micro-2018-02-19.png)
 
 Here is the Triple Three corrective wave described by Elliot Wave Principle.
 
@@ -18,7 +18,7 @@ From [Elliottwave Forecast][1]
 
 Go to a bigger weekly time frame and we can see that BTC got a significant bounce at the 0.618 Fib level. Typically the low will be retested for the market to confirm that the bottom has been put in. If it makes a lower low, then there is a high probability that BTC will go down further into the $4k range.
 
-![a](/assets/bitcoin-correction-2018-02-19.png)
+![a](/assets/images/bitcoin-correction-2018-02-19.png)
 
 Here are the 3 major levels of support.
 
