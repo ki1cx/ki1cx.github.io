@@ -8,7 +8,7 @@ services:
       - $PWD:/srv/jekyll/site
       - $PWD/bundle:/usr/local/bundle:rw
     working_dir: /srv/jekyll/site
-    command: sh -c "/usr/jekyll/bin/jekyll s --livereload"
+    command: sh -c "/usr/jekyll/bin/jekyll s --config _config.local.yml --livereload"
     ports:
       - 4000:4000
       - 35729:35729
