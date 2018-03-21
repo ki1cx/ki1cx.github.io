@@ -27,11 +27,11 @@ Another way to look at the corrective path bitcoin is taking is to look at the c
 
 ![a](/assets/images/bitcoin-log-scale-2018-03-20.png)
 
-The cup has already formed and price is working on the handle. By drawing a line that best describes the trend line, we can come up with an educated guess on where price needs to head in order to form a good handle that will catapult the price upwards in a violent manner. Forming a good handle will ensure that bitcoin will have enough momentum to start another bull run.
+The cup has already formed and price is working on the handle. By drawing a line that best describes the general trend, we can come up with an educated guess on where price needs to head in order to form a good handle that will catapult the price upwards in a violent manner. Forming a good handle will ensure that bitcoin will have enough momentum to start another bull run.
 
 Even if bitcoin falls to 3k today, we're still above the ascending trendline and the macro bull run can continue. 
 
-The actual bottom for bitcoin will depend on how quickly the fear sets in to create the perfect storm for a crash. With each lower low, the faster the selling will occur. The best way to buy in at the lows is to cast a ladder and use the dollar-cost averaging technique. 
+The actual bottom for bitcoin will depend on how quickly the fear sets in to create the perfect storm for a crash. With each lower low, the faster the selling will occur. The best way to buy in at the lows is to cast multiple ladders and use the dollar-cost averaging technique. 
 
 ## Elliot Wave Analysis - Wave 2 or 4?
 
