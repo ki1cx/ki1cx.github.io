@@ -226,7 +226,7 @@ compress_html:
 # Site Author
 author:
   name             : Ki Chang # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/darth_vader.png"
+  avatar           : "/assets/images/joshuatree.jpg"
   bio              : "Programmer"
   location         : "San Francisco, CA"
   email            :
