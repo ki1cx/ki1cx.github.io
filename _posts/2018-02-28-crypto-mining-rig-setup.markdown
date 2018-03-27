@@ -10,7 +10,7 @@ This is a guide on how to build and setup an Ethereum mining rig using Nvidia GT
 
 ## Compatibility
 
-Tested on Ubuntu 16.04 Server LTS amd64 Xenial Xerus. Setup with [ubuntu-unattended](https://github.com/ki1cx/ubuntu-unattended)
+Tested on Ubuntu 16.04 Server LTS amd64 Xenial Xerus. Setup with [ubuntu-unattended](https://github.com/ki1cx/ubuntu-unattended){:target="_blank"}
 
 ## Hardware List
 

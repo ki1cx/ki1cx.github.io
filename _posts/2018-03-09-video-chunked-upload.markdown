@@ -8,7 +8,7 @@ categories: facebook api javascript
 
 A scalable file uploading solution requires a chunk upload strategy, since large files cannot be held in memory at some point. I've been working on a project that requires uploading video files directly to Facebook servers without the backend being involved. 
 
-Here is the link [fb-video-uploader](https://www.npmjs.com/package/fb-video-uploader) to the module I created, which has no dependencies except babel-runtime to support async/await.
+Here is the link [fb-video-uploader](https://www.npmjs.com/package/fb-video-uploader){:target="_blank"} to the module I created, which has no dependencies except babel-runtime to support async/await.
 
 #### There are three stages of upload. 
 
@@ -173,11 +173,11 @@ Get the File object from user input.
 
 	<input type="file" onchange="handleInputChange">
 
-Get the file [size](https://developer.mozilla.org/en-US/docs/Web/API/File/size).
+Get the file [size](https://developer.mozilla.org/en-US/docs/Web/API/File/size){:target="_blank"}.
 
 	file.size
 
-Get the chunks using the [File.slice](https://developer.mozilla.org/en-US/docs/Web/API/File) method.
+Get the chunks using the [File.slice](https://developer.mozilla.org/en-US/docs/Web/API/File){:target="_blank"} method.
 
 	file.slice(start_offset, end_offset + 1);
 

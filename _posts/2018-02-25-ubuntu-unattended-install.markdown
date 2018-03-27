@@ -8,7 +8,7 @@ categories: linux cryptocurrency
 
 If you are working on a project that requires setting up linux on multiple machines, then investing time in a remastered ISO for an unattended install is worthwhile, because it takes the pain out of taking repetitive steps.
 
-[Here](https://github.com/ki1cx/ubuntu-unattended) is the link to repo.
+[Here](https://github.com/ki1cx/ubuntu-unattended){:target="_blank"} is the link to repo.
 
 Preseeding allows you to create an unattended install ISO. In my example, I've remastered an Ubuntu ISO, but the concept is similar with other flavors of linux. Here is the preseed that I've put together for building my machines.
 

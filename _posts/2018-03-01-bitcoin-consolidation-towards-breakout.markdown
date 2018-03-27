@@ -3,7 +3,7 @@ layout: single
 title: "Bitcoin - consolidation towards breakout"
 description: What must go up must come down. Bitcoin is no different. But bitcoin isn't dead. It is gearing up for another stage of adoption.
 date:   2018-03-01 17:55:57 -0000
-categories: bitcoin
+categories: cryptocurrency bitcoin
 ---
 
 Since my last bitcoin post, the price action has been very bullish. Specifically, it has pierced the 20 weekly SMA for 3 straight weeks. This is a sign that btc wants to break out above and is very likely at this point. The pull back from the 20 weekly SMA hasn't been that steep, which is a very bullish move for btc. My original projection of making lower lows at this point is unlikely. 

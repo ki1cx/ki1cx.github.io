@@ -3,7 +3,7 @@ layout: single
 title: "Bitcoin - failed breakout, further downside"
 description: Bitcoin did not have enough momentum for a breakout. Now it is under the moving averages and is heading directly into the death cross. Where is bitcoin headed? Observing the recent price action, bitcoin has more downside action, and will probably last at least couple more months. Elliot wave analysis also shows that it is likely that we'll head down to a fib retracement of between 76.4 ~ 85.4% to around $3 ~ $4k. Coincidentally, this is a retracement back to the levels that bitcoin was at when Jamie Dimon was bashing on bitcoin back in September 2017.
 date:   2018-03-21 05:19:47 -0000
-categories: bitcoin
+categories: cryptocurrency bitcoin
 ---
 
 Where is bitcoin headed? Observing the recent price action, bitcoin has more downside action, and will probably last at least couple more months. Elliot wave analysis also shows that it is likely that we'll head down to a fib retracement of between 76.4 ~ 85.4% to around $3 ~ $4k. Coincidentally, this is a retracement back to the levels that bitcoin was at when Jamie Dimon was bashing on bitcoin back in September 2017.

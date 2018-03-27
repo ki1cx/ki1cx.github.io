@@ -3,7 +3,7 @@ layout: single
 title: "Bitcoin - correction"
 description: What must go up must come down. Bitcoin is no different. But bitcoin isn't dead. It is gearing up for another stage of adoption.
 date:   2018-02-19 10:28:56 -0000
-categories: bitcoin
+categories: cryptocurrency bitcoin
 ---
 
 Is Bitcoin done with it's correction? No one really knows, but we can use [Elliot Wave Principle][2] to make some predictions. With strong correlation to corrective waves past observed, we can make some conjectures. The BTC/Dollar chart below shows strikingly similar resemblence to the Triple Three correction.
