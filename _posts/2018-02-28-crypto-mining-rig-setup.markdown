@@ -6,7 +6,7 @@ date:   2018-02-28 19:20:22 -0000
 categories: linux cryptocurrency ethereum 
 ---
 
-This is a guide on how to build and setup an Ethereum mining rig using Nvidia GTX 10 series GPUs using the Claymore Dual miner. You can easily mine other cryptos that the Claymore miner supports as well as install other miners to mine other coins. The github project can be found [here](https://github.com/ki1cx/crypto-miner-server).
+This is a guide on how to build and setup an Ethereum mining rig using Nvidia GTX 10 series GPUs using the Claymore Dual miner. You can easily mine other cryptos that the Claymore miner supports as well as install other miners to mine other coins. The github project can be found [here](https://github.com/ki1cx/crypto-miner-server){:target="_blank"}.
 
 ## Compatibility
 
@@ -16,19 +16,19 @@ Tested on Ubuntu 16.04 Server LTS amd64 Xenial Xerus. Setup with [ubuntu-unatten
 
 Here is the list of hardware that I've use to build the rig. 
 
-* **Motherboard** - MSI Pro Series Intel Z270 DDR4 HDMI USB 3 SLI ATX Motherboard [Z270 SLI PLUS](https://www.amazon.com/MSI-Z270-SLI-Motherboard-PLUS/dp/B01MR32I8L/)
+* **Motherboard** - MSI Pro Series Intel Z270 DDR4 HDMI USB 3 SLI ATX Motherboard [Z270 SLI PLUS](https://www.amazon.com/MSI-Z270-SLI-Motherboard-PLUS/dp/B01MR32I8L/){:target="_blank"}
 
-* **CPU** - Intel CPU [BX80662G3900](https://www.amazon.com/gp/product/B01B2PJRPA) Celeron G3900 2.80Ghz 2M LGA1151 2C/2T Skylake
+* **CPU** - Intel CPU [BX80662G3900](https://www.amazon.com/gp/product/B01B2PJRPA){:target="_blank"} Celeron G3900 2.80Ghz 2M LGA1151 2C/2T Skylake
 
-* **Memory** - CORSAIR Vengeance LPX 8GB (2x4GB) DDR4 DRAM 3000MHz C15 Memory Kit - Black [CMK8GX4M2B3000C15](https://www.amazon.com/gp/product/B0123ZBPDA/) (only need a single 4GB)
+* **Memory** - CORSAIR Vengeance LPX 8GB (2x4GB) DDR4 DRAM 3000MHz C15 Memory Kit - Black [CMK8GX4M2B3000C15](https://www.amazon.com/gp/product/B0123ZBPDA/){:target="_blank"} (only need a single 4GB)
 
-* **Power Supply** - Corsair RMx Series, 850W, Fully Modular Power Supply, 80+ Gold Certified [RM850x](https://www.amazon.com/dp/B015YEI8JG)
+* **Power Supply** - Corsair RMx Series, 850W, Fully Modular Power Supply, 80+ Gold Certified [RM850x](https://www.amazon.com/dp/B015YEI8JG){:target="_blank"}
 
-* **SSD** - Transcend 64 GB SATA III MTS600 60 mm M.2 SSD [TS64GMTS600](https://www.amazon.com/gp/product/B00KLTPVJ0)
+* **SSD** - Transcend 64 GB SATA III MTS600 60 mm M.2 SSD [TS64GMTS600](https://www.amazon.com/gp/product/B00KLTPVJ0){:target="_blank"}
 
-* **USB Wifi Dongle** - [OURLINK](https://www.amazon.com/gp/product/B018TX8IDA) 600Mbps mini 802.11ac Dual Band 2.4G/5G Wireless Network Adapter USB Wi-Fi Dongle
+* **USB Wifi Dongle** - [OURLINK](https://www.amazon.com/gp/product/B018TX8IDA){:target="_blank"} 600Mbps mini 802.11ac Dual Band 2.4G/5G Wireless Network Adapter USB Wi-Fi Dongle
 
-* **PCIe Risers** - [MintCell](https://www.amazon.com/gp/product/B06ZY2R85P) 6-Pack PCIe 6-Pin 16x to 1x Powered Riser Adapter Card w/ 60cm USB 3.0 Extension Cable & 6-Pin PCI-E to SATA Power Cable 
+* **PCIe Risers** - [MintCell](https://www.amazon.com/gp/product/B06ZY2R85P){:target="_blank"} 6-Pack PCIe 6-Pin 16x to 1x Powered Riser Adapter Card w/ 60cm USB 3.0 Extension Cable & 6-Pin PCI-E to SATA Power Cable 
 
 * **GPU** - Nvidia GTX 10 series GPUs
 
@@ -58,7 +58,7 @@ If you are planning on a larger operation with ~ 100s of GPUs... then you'll pro
 
 ### Where to buy
 
-Best place to buy Nvidia GPUs is to go to the [source](https://www.nvidia.com/en-us/geforce/products/10series/geforce-store/), since there are no additional markups. However, you'll likely need to wait until supply meets demand. If you want to get your hands on them sooner than later and don't mind the premium, then Amazon would be your best bet.
+Best place to buy Nvidia GPUs is to go to the [source](https://www.nvidia.com/en-us/geforce/products/10series/geforce-store/){:target="_blank"}, since there are no additional markups. However, you'll likely need to wait until supply meets demand. If you want to get your hands on them sooner than later and don't mind the premium, then Amazon would be your best bet.
 
 ## On GPU Overclocking
 
