@@ -11,6 +11,8 @@ $sans-serif-narrow  : "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI"
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
 
+$primary-color: #5f7091 !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
