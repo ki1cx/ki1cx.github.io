@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Bitcoin - the coming dip"
-description: 
+description: As the price of bitcoin declines, public [interest](https://trends.google.com/trends/explore?q=bitcoin){:target="_blank"} in it is declining very rapidly. Bounces off the major support level are becoming weaker and price momentum is beginning to take turn to the downside again. I've entertained a projection of the price action during the next down trend, which I estimate will take about 3 months into the end of June to reach the bottom. The 2018 bear market will play out in half the time it took in 2014.
 date:   2018-03-27 20:39:37 -0000
 categories: cryptocurrency bitcoin
 ---
