@@ -1,11 +1,10 @@
 ---
 layout: single
 title: "Bitcoin - The next bull run"
-description:
+description: The next coming bull run, bottom found.
 date:   2018-08-15 19:32:15 -0000
 categories: cryptocurrency bitcoin
 ---
-
 
 
 ## Bitcoin bottom found
